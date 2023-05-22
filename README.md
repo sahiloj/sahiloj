@@ -14,7 +14,7 @@
 
 - 📫 How to reach me : Twitter- **@SahilOj**
 
-- ⚡ Fun fact **🏍 Rider**
+- ⚡ Fun fact **🏍 Moto Rider**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
