@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Offensive Security Researcher and Application Penetration Tester.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiloj&label=Profile%20views&color=0e75b6&style=flat" alt="sahiloj" /> </p>
-
 <p align="left"> <a href="https://twitter.com/sahiloj" target="blank"><img src="https://img.shields.io/twitter/follow/sahiloj?logo=twitter&style=for-the-badge" alt="sahiloj" /></a> </p>
 
 - 🔭 I’m currently working on **Application Security**
