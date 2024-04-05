@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Application Security**
 
-- 📝 I sometime write articles on [sahiloj.medium.com](sahiloj.medium.com)
+- 📝 I sometime write articles on [sahilojha.com.np](sahilojha.com.np)
 
 - 💬 Ask me about **Cybersecurity, Penetration Testing and Bug Hunting.**
 
