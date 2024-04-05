@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Application Security**
 
-- 📝 I sometime write articles on [sahilojha.com.np](sahilojha.com.np) https://sahilojha.com.np
+- 📝 I sometime write articles on https://sahilojha.com.np
 
 - 💬 Ask me about **Cybersecurity, Penetration Testing and Bug Hunting.**
 
