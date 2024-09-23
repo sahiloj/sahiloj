@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahiloj" target="blank"><img src="https://img.shields.io/twitter/follow/sahiloj?logo=twitter&style=for-the-badge" alt="sahiloj" /></a> </p>
 
-- 🔭 I’m currently working on **Application, Network and Cloud Security**
+- 🔭 I’m currently working on **Application, Network Infrastructures and Cloud Security**
 
 - 📝 I sometime write blogs on https://sahilojha.com.np
 
