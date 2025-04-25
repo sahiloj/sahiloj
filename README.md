@@ -8,7 +8,7 @@
 
 - 📝 I sometime write blogs on https://sahilojha.com.np
 
-- 📜 [Go through my 17 Published CVEs](https://github.com/stars/sahiloj/lists/sahil-ojha-cves)
+- 📜 [Go through my 17 published CVEs](https://github.com/stars/sahiloj/lists/sahil-ojha-cves)
 
 - 💬 Ask me about **Cybersecurity, Penetration Testing, Red Teaming, Security Solutions Engineering and Bug Bounty Hunting.**
 
